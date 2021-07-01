@@ -1,0 +1,46 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.movie_head{
+    padding:6px 22px;
+    font-size:20px;
+    width:100%;
+    border-radius: 10px;
+    display: block;
+    margin-bottom: 10px;
+}
+.movie_head i{
+  float:right;
+}
+.movie_head span{
+    color:orange; 
+}
+.book{
+    cursor: pointer
+}
+.book hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.modal-body{
+   text-align:center; 
+}
